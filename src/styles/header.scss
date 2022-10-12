@@ -1,9 +1,20 @@
 .header{
     padding: 15px;
+
+    @media all and (min-width: 768px){
+        position: fixed;
+        height: 90vh;
+    }
     &__menu{
         display: flex;
         justify-content: space-evenly;
         align-items: center;
+        @media all and (min-width: 768px){
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: flex-end;
+
+        }
         &--list{
             display: flex;
             align-items: center;
@@ -23,8 +34,8 @@
 
             }
             a:hover{
-    	opacity: 0.5;
-    }
+            opacity: 0.5;
+         }
 	}
     }
 	
