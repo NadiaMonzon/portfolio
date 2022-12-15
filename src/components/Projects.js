@@ -13,7 +13,7 @@ function Projects() {
         These are my personal projects, created both with different teams and on
         my own. I will leave you the link to the repository and to the web page.
       </p>
-      <ul>{renderProjects}</ul>
+      <ul className="projects-list">{renderProjects}</ul>
       <p>
         If you think you need any improvement or that you may be missing a
         featuring, do not hesitate to contact me or to open a pull request.

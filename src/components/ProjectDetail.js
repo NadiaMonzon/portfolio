@@ -1,25 +1,29 @@
+import Web from "../images/web.png";
+
 const ProjectDetail = (props) => {
   console.log(props.project.image);
   return (
-    <li className="project">
-      <h4 className="project-title">{props.project.name}</h4>
+    <li className="project nes-container with-title is-centered">
+      <h4 className="title">{props.project.name}</h4>
       <img
         className="project-cover"
         src={props.project.image}
         alt={props.project.alt}
       ></img>
       <div className="project-wrapper animate__zoomIn">
-        <a className="project-gitlink" href={props.project.githubLink}>
-          <span>
-            <i className="fa-brands fa-github project-gitlink__icon"></i>
-          </span>
-        </a>
-        <a className="project-weblink" href={props.project.webLink}>
-          <span>
-            <i className="fa-regular fa-eye project-weblink__icon"></i>
-          </span>
-        </a>
-        <p className="project-technologies nes-container is-rounded">
+        <div className="icon-wrapper">
+          <a className="project-gitlink" href={props.project.githubLink}>
+            <span>
+              <i className="nes-icon github is-medium"></i>
+            </span>
+          </a>
+          <a className="project-weblink" href={props.project.webLink}>
+            <span>
+              <img className="icon-2" alt="web icon" src={Web} />
+            </span>
+          </a>
+        </div>
+        <p className="project-technologies nes-container is-rounded ">
           {props.project.technologies}
         </p>
       </div>

@@ -4,7 +4,9 @@ function Presentation() {
       <div className="profile-photo" alt="Nadia"></div>
       <aside className="presentation__wrapper">
         <article>
-          <h2 className="presentation__title">Nice to meet you!</h2>
+          <h3 className="nes-balloon from-left presentation__title">
+            Nice to meet you!
+          </h3>
           <p className="presentation__text">
             I love taking on new challenges, that's why I've always been in
             constant development both professionally and personally. I'm a very
@@ -15,7 +17,7 @@ function Presentation() {
         </article>
 
         <article>
-          <h3 className="presentation__title">
+          <h3 className="presentation__title nes-balloon from-right">
             What technologies do I feel more comfortable with?
           </h3>
           <p className="presentation__text">
@@ -26,7 +28,7 @@ function Presentation() {
           </p>
         </article>
         <article>
-          <h3 className="presentation__title">
+          <h3 className="presentation__title nes-balloon from-left">
             What do I like to do in my free time?
           </h3>
           <p className="presentation__text">
