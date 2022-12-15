@@ -1,26 +1,25 @@
-import '../styles/App.scss';
-import Contact from './Contact';
-import Header from './Header';
-import Presentation from './Presentation';
-import Projects from './Projects';
-import Skills from './Skills';
+import "../styles/App.scss";
+import Contact from "./Contact";
+import Header from "./Header";
+import Presentation from "./Presentation";
+import Projects from "./Projects";
+import Skills from "./Skills";
+import "../../node_modules/nes.css/css/nes.css";
 
 function App() {
   return (
     <div className="App">
-      <Header/>
+      <Header />
 
-      <main className='App--main'>
-        <Presentation/>
-        
-        <Skills/>
-        
-        <Projects/>
-        
-        <Contact/>
+      <main className="App--main">
+        <Presentation />
 
-      </main>      
-      
+        <Skills />
+
+        <Projects />
+
+        <Contact />
+      </main>
     </div>
   );
 }

@@ -1,5 +1,5 @@
 *{
-	margin: 0;
+	margin: 10px;
 	padding: 0;
 	list-style: none;
 	text-decoration: none;
@@ -7,19 +7,22 @@
 	outline: none;
 }
 
-@import './header.scss';
-@import './presentation.scss';
-
-@import './contact.scss';
-
-
-.App{
-	background-color: #FEFAE0;
-	/*height: 85vh;
-	width: 90vw;
-	margin: 3vw 5vw 3vw 5vw ;*/
+:root{
+	--is-black:#212529;
+	--is-blue:#209cee;
+	--is-green:#92cc41;
+	--is-yellow:#f7d51d;
+	--is-red:#e76e55;
 }
 
 .fa-bars{
 	font-size: 22px;
 }
+
+@import './header.scss';
+@import './presentation.scss';
+@import './projects.scss';
+@import './skills.scss';
+@import './contact.scss';
+@import './components.scss';
+

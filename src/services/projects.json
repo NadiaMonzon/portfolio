@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Open Spaces",
+        "image": "../images/openspaces.PNG",
+        "alt": "Open Spaces web page",
+        "technologies": "HTML5, CSS3, SASS",
+        "shortDesc": "This is the layout of a static web page.",
+        "githubLink": "https://github.com/NadiaMonzon/modulo-1-evaluacion-final-NadiaMonzon.git",
+        "webLink":"https://nadiamonzon.github.io/modulo-1-evaluacion-final-NadiaMonzon/"
+    },
+    
+    {
+        "name": "Guess the number",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcomunidad.retorn.com%2Falimentacion-gatos%2Fcomo-cuidar-de-mi-gatito-recien-nacido%2F&psig=AOvVaw2WQIlL3MaqfqOQKzUsd9lB&ust=1670497694496000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPitnv-u5_sCFQAAAAAdAAAAABAE",
+        "alt": "Guess the number web page",
+        "technologies": "HTML5, CSS3, JavaScript",
+        "shortDesc": "It is a small game on a page that generates a random number between 1 and 100 each time it loads. The user must find out the random number.",
+        "githubLink": "https://github.com/NadiaMonzon/modulo-2-evaluacion-intermedia-NadiaMonzon.git",
+        "webLink":"https://nadiamonzon.github.io/modulo-2-evaluacion-intermedia-NadiaMonzon/"
+    },
+    
+    {
+        "name": "Jokers del Script",
+        "image": "../images/jokersdelscript.PNG",
+        "alt": "Jokers del Script web page",
+        "technologies": "HTML5, CSS3 SASS, JavaScript",
+        "shortDesc": "It is a website that allows you to create business cards. This project was made in a group of 5 people.",
+        "githubLink": "https://github.com/NadiaMonzon/project-promo-q-module-2-team-5.git",
+        "webLink":"https://nadiamonzon.github.io/project-promo-q-module-2-team-5/"
+    },
+    
+    {
+        "name": "Las Faraonas",
+        "image": "../images/lasfaraonas.PNG",
+        "alt": "Las Faraonas web page",
+        "technologies": "HTML5, CSS3, SASS, React.js, NodeJS, Express, SQL",
+        "shortDesc": "The goal of this website, besides creating business cards, was to migrate the project from JS to React, connect it to the backend and work with legacy code. This project was made in a group of 5 people.",
+        "githubLink": "https://github.com/NadiaMonzon/project-promo-q-module-4-team-2.git",
+        "webLink":"https://las-faraonas-awesome-card.herokuapp.com"
+    },
+    
+    {
+        "name": "Harry Potter character search engine",
+        "image": "../images/harrypotter.jpg",
+        "alt": "Harry Potter character search engine web page",
+        "technologies": "HTML5, CSS3, SASS, React.js",
+        "shortDesc": "It is a web made in React.js that takes data from an API and allows to search for characters through different filters.",
+        "githubLink": "https://github.com/NadiaMonzon/modulo-3-evaluacion-final-NadiaMonzon.git",
+        "webLink":"https://resplendent-biscochitos-c2dae8.netlify.app"
+    }
+]
