@@ -8,7 +8,7 @@ import "../../node_modules/nes.css/css/nes.css";
 
 function App() {
   return (
-    <div className="App">
+    <>
       <Header />
 
       <main className="App--main">
@@ -20,7 +20,7 @@ function App() {
 
         <Contact />
       </main>
-    </div>
+    </>
   );
 }
 

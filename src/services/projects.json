@@ -1,7 +1,7 @@
 [
     {
         "name": "Open Spaces",
-        "image": "../images/openspaces.PNG",
+        "image": "/openspaces.PNG",
         "alt": "Open Spaces web page",
         "technologies": "HTML5, CSS3, SASS",
         "shortDesc": "This is the layout of a static web page.",
@@ -11,7 +11,7 @@
     
     {
         "name": "Guess the number",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcomunidad.retorn.com%2Falimentacion-gatos%2Fcomo-cuidar-de-mi-gatito-recien-nacido%2F&psig=AOvVaw2WQIlL3MaqfqOQKzUsd9lB&ust=1670497694496000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPitnv-u5_sCFQAAAAAdAAAAABAE",
+        "image": "/guessthenumber.PNG",
         "alt": "Guess the number web page",
         "technologies": "HTML5, CSS3, JavaScript",
         "shortDesc": "It is a small game on a page that generates a random number between 1 and 100 each time it loads. The user must find out the random number.",
@@ -21,7 +21,7 @@
     
     {
         "name": "Jokers del Script",
-        "image": "../images/jokersdelscript.PNG",
+        "image": "/jokersdelscript.PNG",
         "alt": "Jokers del Script web page",
         "technologies": "HTML5, CSS3 SASS, JavaScript",
         "shortDesc": "It is a website that allows you to create business cards. This project was made in a group of 5 people.",
@@ -31,7 +31,7 @@
     
     {
         "name": "Las Faraonas",
-        "image": "../images/lasfaraonas.PNG",
+        "image": "/lasfaraonas.PNG",
         "alt": "Las Faraonas web page",
         "technologies": "HTML5, CSS3, SASS, React.js, NodeJS, Express, SQL",
         "shortDesc": "The goal of this website, besides creating business cards, was to migrate the project from JS to React, connect it to the backend and work with legacy code. This project was made in a group of 5 people.",
@@ -41,11 +41,11 @@
     
     {
         "name": "Harry Potter character search engine",
-        "image": "../images/harrypotter.jpg",
+        "image": "/harrypotter.jpg",
         "alt": "Harry Potter character search engine web page",
         "technologies": "HTML5, CSS3, SASS, React.js",
         "shortDesc": "It is a web made in React.js that takes data from an API and allows to search for characters through different filters.",
-        "githubLink": "https://github.com/NadiaMonzon/modulo-3-evaluacion-final-NadiaMonzon.git",
-        "webLink":"https://resplendent-biscochitos-c2dae8.netlify.app"
+        "githubLink": "https://github.com/NadiaMonzon/Harry-Potter-character-search-engine.git",
+        "webLink":"https://harrypottercharactergenerator.netlify.app"
     }
 ]

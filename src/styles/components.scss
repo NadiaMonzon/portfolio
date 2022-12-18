@@ -1,9 +1,12 @@
-.icon{
-    height: 20px;
-    &-wrapper{
-        display: flex;
-    }
-    &-2{
-        height: 50px;
+.color-letter{
+    color: var(--is-red);
+}
+
+.is-active{
+    &__ligth{
+    background-color: var(--is-blue);
+}
+    &__dark{
+        background-color: var(--is-yellow);
     }
 }

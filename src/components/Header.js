@@ -9,18 +9,16 @@ function Header() {
       <nav>
         <ul className="header__menu">
           <li className="header__menu--list">
-            <a href="#presentation" alt="I'll tell you about me">
-              About me
-            </a>
+            <a href="#presentation">Do you wanna know about me?</a>
           </li>
           <li className="header__menu--list">
-            <a href="#skills">Skills</a>
+            <a href="#skills">What can I do?</a>
           </li>
           <li className="header__menu--list">
-            <a href="#projects">Projects</a>
+            <a href="#projects">What about my projects?</a>
           </li>
           <li className="header__menu--list">
-            <a href="#contact">Contact me</a>
+            <a href="#contact">Contact me!</a>
           </li>
         </ul>
         <ul>
