@@ -1,5 +1,7 @@
-.color-letter{
+.highlight{
     color: var(--is-red);
+    border-color: var(--is-red);
+    background-color: var(--is-yellow);
 }
 
 .is-active{

@@ -23,7 +23,7 @@ const ProjectDetail = (props) => {
             </span>
           </a>
         </div>
-        <p className="project-technologies nes-container is-rounded ">
+        <p className="project-technologies highlight nes-input is-error">
           {props.project.technologies}
         </p>
       </div>

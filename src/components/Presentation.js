@@ -33,8 +33,8 @@ function Presentation() {
           </h3>
           <p className="presentation__text">
             I really enjoy spending time in nature, either hiking or going to
-            beaches (if they are hidden, all the better). I also like baking
-            and, some years ago, I could even dedicate myself to it for a couple
+            beaches (if they are hidden coves, even better). I also like baking
+            and, some time ago, I could even dedicate myself to it for a couple
             of years in an unofficial way.
           </p>
         </article>

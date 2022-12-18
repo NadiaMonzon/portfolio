@@ -21,14 +21,14 @@ function Header() {
             <a href="#contact">Contact me!</a>
           </li>
         </ul>
-        <ul>
+        {/* <ul>
           <li className="nes-btn is-primary">
             Light mode <img className="icon" alt="sun icon" src={Sun} />
           </li>
           <li className="nes-btn is-dark">
             Dark mode <img className="icon" alt="half moon icon" src={Moon} />
           </li>
-        </ul>
+        </ul> */}
       </nav>
     </header>
   );
