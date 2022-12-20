@@ -1,7 +1,7 @@
 [
     {
         "name": "Open Spaces",
-        "image": "/openspaces.PNG",
+        "image": "../images/openspaces.PNG",
         "alt": "Open Spaces web page",
         "technologies": "HTML5, CSS3, SASS",
         "shortDesc": "This is the layout of a static web page.",

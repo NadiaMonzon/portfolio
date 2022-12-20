@@ -15,6 +15,7 @@ const Contact = () => {
       <h4 className="contact__title--social">
         <a
           href="https://www.linkedin.com/in/nadiamonzon/"
+          target="blank"
           className="contact__link nes-badge"
           alt="Take a look at my LinkedIn profile"
         >
