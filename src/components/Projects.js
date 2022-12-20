@@ -7,7 +7,7 @@ function Projects() {
   });
   console.log(renderProjects);
   return (
-    <section id="projects">
+    <section id="projects" className="section">
       <h2>Take a look at my projects!</h2>
       <p>
         These are my personal projects, created both with different teams and on

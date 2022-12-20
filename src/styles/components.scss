@@ -4,6 +4,13 @@
     background-color: var(--is-yellow);
 }
 
+.skills{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+}
+
 .is-active{
     &__ligth{
     background-color: var(--is-blue);

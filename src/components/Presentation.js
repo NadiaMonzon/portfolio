@@ -1,6 +1,6 @@
 function Presentation() {
   return (
-    <section id="presentation" className="presentation">
+    <section id="presentation" className="section presentation">
       <div className="profile-photo" alt="Nadia"></div>
       <aside className="presentation__wrapper">
         <article>
